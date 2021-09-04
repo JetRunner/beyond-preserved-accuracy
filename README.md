@@ -1,6 +1,8 @@
 # beyond-preserved-accuracy
 Repo for EMNLP 2021 paper "Beyond Preserved Accuracy: Evaluating Loyalty and Robustness of BERT Compression"
 
+<img src="https://user-images.githubusercontent.com/22514219/132096907-1f8f0419-19b8-4bef-8b50-81c3e67cf6f0.png" width="400px">
+
 ## How to implement the metrics?
 
 ### Probability Loyalty
